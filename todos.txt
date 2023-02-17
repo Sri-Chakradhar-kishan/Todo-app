@@ -2,4 +2,3 @@ prepare
 play chess
 write
 Python Learner
-conventionlast todo
